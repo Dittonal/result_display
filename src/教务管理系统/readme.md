@@ -20,11 +20,11 @@
 &emsp;&emsp;本项目免费获取，获取方式在后台发送教务管理系统。系统的实现比较简单，主要是对数据库的读取和前端数据调用的表格展示，并没有太多的交互，比较适合初学者学习flask和数据库的使用，所以免费获取，希望多多支持，当然有比较好的修改想法也可以交流。在这个基础上进行交互，比如Echart图的加入，表格数据的删除与修改等等。
 
 ## 主体
-![](https://gitcode.net/k54kdk/result_display/-/raw/master/src/教务管理系统/1教务管理系统登录.png)
-![](https://gitcode.net/k54kdk/result_display/-/raw/master/src/教务管理系统/2管理学生.png)
-![](https://gitcode.net/k54kdk/result_display/-/raw/master/src/教务管理系统/3教师排课.png)
-![](https://gitcode.net/k54kdk/result_display/-/raw/master/src/教务管理系统/4学生成绩.png)
-![](https://gitcode.net/k54kdk/result_display/-/raw/master/src/教务管理系统/数据库展示.jpg)
+![](https://gitee.com/k54kdk/result_display/-/raw/master/src/教务管理系统/1教务管理系统登录.png)
+![](https://gitee.com/k54kdk/result_display/-/raw/master/src/教务管理系统/2管理学生.png)
+![](https://gitee.com/k54kdk/result_display/-/raw/master/src/教务管理系统/3教师排课.png)
+![](https://gitee.com/k54kdk/result_display/-/raw/master/src/教务管理系统/4学生成绩.png)
+![](https://gitee.com/k54kdk/result_display/-/raw/master/src/教务管理系统/数据库展示.jpg)
 
 ##
 
@@ -35,13 +35,13 @@
         <table align="center" >
             <tr>
                 <td>
-                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=350/>
                 </td>
                 <td>
-                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
                 </td>
                 <td>
-                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/公众号.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/公众号.jpg" height=350/>
                 </td>
             </tr>
         </table>

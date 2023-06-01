@@ -13,7 +13,7 @@
 
 <div align="center">
 
-源码请通过底部联系方式获取 [总目录](https://gitcode.net/k54kdk/k54kdk/-/blob/master/README.md#django+mysql系统展示)
+源码请通过底部联系方式获取 [总目录](https://gitee.com/k54kdk/k54kdk/-/blob/master/README.md#django+mysql系统展示)
 </div>
 
 ***
@@ -37,10 +37,10 @@
         <table align="center" >
             <tr>
                 <td>
-                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=350/>
                 </td>
                 <td>
-                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
                 </td>
             </tr>
         </table>

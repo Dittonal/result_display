@@ -18,12 +18,12 @@
 
 
 ## 主体
-![](https://gitcode.net/k54kdk/result_display/-/raw/master/src/电影管理系统/1login.png)
-![](https://gitcode.net/k54kdk/result_display/-/raw/master/src/电影管理系统/2主页.png)
-![](https://gitcode.net/k54kdk/result_display/-/raw/master/src/电影管理系统/3.png)
-![](https://gitcode.net/k54kdk/result_display/-/raw/master/src/电影管理系统/4.png)
-![](https://gitcode.net/k54kdk/result_display/-/raw/master/src/电影管理系统/5.png)
-![](https://gitcode.net/k54kdk/result_display/-/raw/master/src/电影管理系统/6.png)
+![](https://gitee.com/k54kdk/result_display/-/raw/master/src/电影管理系统/1login.png)
+![](https://gitee.com/k54kdk/result_display/-/raw/master/src/电影管理系统/2主页.png)
+![](https://gitee.com/k54kdk/result_display/-/raw/master/src/电影管理系统/3.png)
+![](https://gitee.com/k54kdk/result_display/-/raw/master/src/电影管理系统/4.png)
+![](https://gitee.com/k54kdk/result_display/-/raw/master/src/电影管理系统/5.png)
+![](https://gitee.com/k54kdk/result_display/-/raw/master/src/电影管理系统/6.png)
 
 ##
 
@@ -34,13 +34,13 @@
         <table align="center" >
             <tr>
                 <td>
-                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=350/>
                 </td>
                 <td>
-                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
                 </td>
                 <td>
-                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/公众号.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/公众号.jpg" height=350/>
                 </td>
             </tr>
         </table>
