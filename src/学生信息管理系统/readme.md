@@ -15,7 +15,7 @@
 
 <div align="center">
 
-源码请通过底部联系方式获取 [总目录](https://gitee.com/k54kdk/k54kdk/-/blob/master/README.md#django+mysql系统展示)
+源码请通过底部联系方式获取 [总目录](https://gitee.com/k54kdk/k54kdk/raw/master/README.md#django+mysql系统展示)
 
 </div>
 
