@@ -19,11 +19,11 @@
 ## 爬虫程序有效更新时间2023年4月22日09:29:16
 ## 主体
 - 主页
-![](./1tables.png)
-![](./2分析结果展示.png)
-![](./3图表展示结果.png)
-![](./4词云.png)
-![](./数据库展示.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/音乐评论情感分析系统/1tables.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/音乐评论情感分析系统/2分析结果展示.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/音乐评论情感分析系统/3图表展示结果.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/音乐评论情感分析系统/4词云.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/音乐评论情感分析系统/数据库展示.png)
 
 ***
 <details>

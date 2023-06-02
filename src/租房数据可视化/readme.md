@@ -20,18 +20,18 @@
 
 ## 主体
 - 首页
-![](./首页.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/首页.png)
 ## 数据分析
 - 户型楼层等数据
-![](./ershou1.png)
-![](./ershou2.png)
-![](./ershou3.png)
-![](./ershou4.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/ershou1.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/ershou2.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/ershou3.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/ershou4.png)
 ## 价格信息
-![](./rent1.png)
-![](./rent2.png)
-![](./rent3.png)
-![](./rent4.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/rent1.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/rent2.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/rent3.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/rent4.png)
 
 <details>
 <summary> 联系方式</summary>
