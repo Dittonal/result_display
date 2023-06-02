@@ -20,11 +20,11 @@
 
 ## 主体
 - 主页
-![](https://gitee.com/k54kdk/result_display/blob/master/src/车辆管理系统/index.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/车辆管理系统/三种方向的工作岗位薪资.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/车辆管理系统/table岗位可跳转且有效.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/车辆管理系统/地区数据.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/车辆管理系统/51job岗位信息可视化_数据库展示.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/车辆管理系统/index.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/车辆管理系统/三种方向的工作岗位薪资.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/车辆管理系统/table岗位可跳转且有效.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/车辆管理系统/地区数据.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/车辆管理系统/51job岗位信息可视化_数据库展示.png)
 
 ##
 
@@ -36,10 +36,10 @@
         <table align="center" >
             <tr>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/blob/master/src/联系二维码/微信好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/raw/master/src/联系二维码/微信好友.jpg" height=350/>
                 </td>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/blob/master/src/联系二维码/QQ好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
                 </td>
             </tr>
         </table>

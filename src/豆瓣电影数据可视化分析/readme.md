@@ -19,30 +19,30 @@
 
 ## 主体
 - 主页
-![](https://gitee.com/k54kdk/result_display/blob/master/src/豆瓣电影数据可视化分析系统/home.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析系统/home.png)
 - 搜索
-![](https://gitee.com/k54kdk/result_display/blob/master/src/豆瓣电影数据可视化分析系统/search.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析系统/search.png)
 
 ## 数据分析
 - 电影地区分析
-![](https://gitee.com/k54kdk/result_display/blob/master/src/豆瓣电影数据可视化分析系统/location-analysis.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析系统/location-analysis.png)
 - 评分分析
-![](https://gitee.com/k54kdk/result_display/blob/master/src/豆瓣电影数据可视化分析系统/Score-analysis.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析系统/Score-analysis.png)
 - 演员分析
-![](https://gitee.com/k54kdk/result_display/blob/master/src/豆瓣电影数据可视化分析系统/actor-analysis.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析系统/actor-analysis.png)
 
 - 电影类型分析
-![](https://gitee.com/k54kdk/result_display/blob/master/src/豆瓣电影数据可视化分析系统/type-analysis.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析系统/type-analysis.png)
 ## 数据管理
 - 查看电影的详细信息(分页查看/搜索查看)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/豆瓣电影数据可视化分析系统/data查看电影的详细信息分页查看搜索查看.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析系统/data查看电影的详细信息分页查看搜索查看.png)
 
 - 选取电影评论生成词云
-![](https://gitee.com/k54kdk/result_display/blob/master/src/豆瓣电影数据可视化分析系统/选取电影评论生成词云.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析系统/选取电影评论生成词云.png)
 - 词云图片
-![](https://gitee.com/k54kdk/result_display/blob/master/src/豆瓣电影数据可视化分析系统/wordcloud.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/豆瓣电影数据可视化分析系统/wordcloud1.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/豆瓣电影数据可视化分析系统/wordcloud2.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析系统/wordcloud.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析系统/wordcloud1.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析系统/wordcloud2.png)
 
 ***
 <details>
@@ -52,10 +52,10 @@
         <table align="center" >
             <tr>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/blob/master/src/联系二维码/微信好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/raw/master/src/联系二维码/微信好友.jpg" height=350/>
                 </td>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/blob/master/src/联系二维码/QQ好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
                 </td>
             </tr>
         </table>

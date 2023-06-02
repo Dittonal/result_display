@@ -20,18 +20,18 @@
 
 ## 主体
 - 首页
-![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/首页.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/租房数据可视化/首页.png)
 ## 数据分析
 - 户型楼层等数据
-![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/ershou1.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/ershou2.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/ershou3.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/ershou4.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/租房数据可视化/ershou1.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/租房数据可视化/ershou2.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/租房数据可视化/ershou3.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/租房数据可视化/ershou4.png)
 ## 价格信息
-![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/rent1.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/rent2.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/rent3.png)
-![](https://gitee.com/k54kdk/result_display/blob/master/src/租房数据可视化/rent4.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/租房数据可视化/rent1.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/租房数据可视化/rent2.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/租房数据可视化/rent3.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/租房数据可视化/rent4.png)
 
 <details>
 <summary> 联系方式</summary>
@@ -40,10 +40,10 @@
         <table align="center" >
             <tr>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/blob/master/src/联系二维码/微信好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/raw/master/src/联系二维码/微信好友.jpg" height=350/>
                 </td>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/blob/master/src/联系二维码/QQ好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
                 </td>
             </tr>
         </table>
