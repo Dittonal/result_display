@@ -25,24 +25,24 @@
     <table style="margin-left: auto; margin-right: auto; align:center" >
         <tr>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/-/blob/master/src/联系二维码/微信好友.jpg" height=200/>
+                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=200/>
                 </td>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/-/blob/master/src/联系二维码/QQ好友.jpg" height=200/>
+                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=200/>
                 </td>
         </tr>
     </table>
     <table style="margin-left: auto; margin-right: auto; align:center" >
         <tr>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/-/blob/master/src/联系二维码/白.png" height/>
+                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/白.png" height/>
                 </td>
         </tr>
         </table>
             <table style="margin-left: auto; margin-right: auto; align:center" >
             <tr>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/-/blob/master/src/联系二维码/绿.png" height/>
+                    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/绿.png" height/>
                 </td>
         </tr>
         </table>
