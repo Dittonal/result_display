@@ -18,7 +18,6 @@
 
 ***
 
-## 爬虫程序有效更新时间2023年4月22日09:29:16
 ## 主体
 - 主页
 ![](https://gitee.com/k54kdk/result_display/blob/master/src/车辆管理系统/index.png)
