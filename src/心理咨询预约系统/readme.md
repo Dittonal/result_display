@@ -17,20 +17,20 @@
 
 ## 主体
 - 主页
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/1.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/2-1.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/2-2.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/2-3.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/3.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/3-1.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/4.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/4-1.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/5.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/6.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/6-1.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/7.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/7-1.png)
-![](https://gitee.com/k54kdk/result_display/-/raw/master/src/心理咨询预约系统/数据库展示.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/1.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/2-1.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/2-2.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/2-3.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/3.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/3-1.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/4.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/4-1.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/5.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/6.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/6-1.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/7.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/7-1.png)
+![](https://gitee.com/k54kdk/result_display/blob/master/src/心理咨询预约系统/数据库展示.png)
 
 ***
 <details>
@@ -40,10 +40,10 @@
         <table align="center" >
             <tr>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/blob/master/src/联系二维码/微信好友.jpg" height=350/>
                 </td>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/blob/master/src/联系二维码/QQ好友.jpg" height=350/>
                 </td>
             </tr>
         </table>
@@ -56,10 +56,10 @@
         <table align="center" >
             <tr>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/blob/master/src/联系二维码/微信好友.jpg" height=350/>
                 </td>
                 <td>
-                    <img src="https://gitee.com/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
+                    <img src="https://gitee.com/k54kdk/result_display/blob/master/src/联系二维码/QQ好友.jpg" height=350/>
                 </td>
             </tr>
         </table>
