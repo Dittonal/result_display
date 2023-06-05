@@ -20,11 +20,11 @@
 
 ## 主体
 - 主页
-![](https://gitee.com/k54kdk/result_display/raw/master/src/车辆管理系统/index.png)
-![](https://gitee.com/k54kdk/result_display/raw/master/src/车辆管理系统/三种方向的工作岗位薪资.png)
-![](https://gitee.com/k54kdk/result_display/raw/master/src/车辆管理系统/table岗位可跳转且有效.png)
-![](https://gitee.com/k54kdk/result_display/raw/master/src/车辆管理系统/地区数据.png)
-![](https://gitee.com/k54kdk/result_display/raw/master/src/车辆管理系统/51job岗位信息可视化_数据库展示.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/51job岗位信息可视化/index.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/51job岗位信息可视化/三种方向的工作岗位薪资.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/51job岗位信息可视化/table岗位可跳转且有效.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/51job岗位信息可视化/地区数据.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/51job岗位信息可视化/51job岗位信息可视化_数据库展示.png)
 
 ##
 
