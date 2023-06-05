@@ -11,7 +11,7 @@
 
 <div align="center">
 
-源码请通过底部联系方式获取 [总目录](https://gitcode.net/k54kdk/k54kdk/-/blob/master/README.md#django+mysql系统展示)
+源码请通过底部联系方式获取 [总目录](https://gitee.com/k54kdk/k54kdk/#djangomysql系统展示)
 
 </div>
 
@@ -39,6 +39,7 @@
 ![](https://gitee.com/k54kdk/result_display/raw/master/src/地图交互/use6.png)
 
 ![](https://gitee.com/k54kdk/result_display/raw/master/src/地图交互/use7.png)
+
 ***
 <details>
 <summary> 联系方式</summary>
