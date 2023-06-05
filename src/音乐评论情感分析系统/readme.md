@@ -12,7 +12,7 @@
 
 <div align="center">
 
-源码请通过底部联系方式获取 [总目录](https://gitee.com/k54kdk/k54kdk/#djangomysql系统展示)
+源码请通过底部联系方式获取 [总目录](https://gitee.com/k54kdk/result_display#源码请添加底部微信或者qq联系获取)
 
 </div>
 

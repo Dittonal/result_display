@@ -1,4 +1,4 @@
-# 源码请添加底部微信或者 qq 联系获取
+# 源码请添加底部微信或者qq联系获取
 
 # [豆瓣电影数据可视化分析](https://gitee.com/k54kdk/result_display/tree/master/src/豆瓣电影数据可视化分析#豆瓣电影数据可视化分析系统)
 
