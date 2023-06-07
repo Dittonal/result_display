@@ -23,6 +23,7 @@
 ![](https://gitee.com/k54kdk/result_display/raw/master/src/音乐评论情感分析系统/2分析结果展示.png)
 ![](https://gitee.com/k54kdk/result_display/raw/master/src/音乐评论情感分析系统/3图表展示结果.png)
 ![](https://gitee.com/k54kdk/result_display/raw/master/src/音乐评论情感分析系统/4词云.png)
+![调用aip分析](https://gitee.com/k54kdk/result_display/raw/master/src/音乐评论情感分析系统/5调用aip分析.png)
 ![](https://gitee.com/k54kdk/result_display/raw/master/src/音乐评论情感分析系统/数据库展示.png)
 
 ***
