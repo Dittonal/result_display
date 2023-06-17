@@ -14,11 +14,17 @@
 - 参考[开源项目](https://gitee.com/k54kdk/layuiminis)
 # [心理咨询预约系统](https://gitee.com/k54kdk/result_display/tree/master/src/心理咨询预约系统#心理咨询预约系统)
 
+# [笔记本电脑信息爬虫可视化](https://gitee.com/k54kdk/result_display/tree/master/src/笔记本电脑信息爬虫可视化/readme.md)
+# [动物识别系统](https://gitee.com/k54kdk/result_display/tree/master/src/动物识别系统/readme.md)
+# [消费者投诉数据可视化分析系统](https://gitee.com/k54kdk/result_display/tree/master/src/消费者投诉数据可视化分析系统/readme.md)
+# [Boss岗位可视化系统](https://gitee.com/k54kdk/result_display/tree/master/src/Boss岗位可视化系统/readme.md)
 
 # Free 
 ### [教务管理系统](https://gitee.com/k54kdk/result_display/tree/master/src/教务管理系统#教务管理系统)
 ### [电影管理系统](https://gitee.com/k54kdk/result_display/tree/master/src/电影管理系统#电影管理系统)
 ### [地图交互](https://gitee.com/k54kdk/result_display/tree/master/src/地图交互#地图交互)
+### [影视作品分析](https://gitee.com/k54kdk/result_display/tree/master/src/影视作品分析/readme.md)
+### [粽子商品爬虫可视化](https://gitee.com/k54kdk/result_display/tree/master/src/粽子商品爬虫可视化/readme.md)
 - 参考[开源项目](https://github.com/uavkz/SwarMown)
   
 <div align="center">
