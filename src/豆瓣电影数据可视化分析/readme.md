@@ -41,8 +41,8 @@
 ![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析/选取电影评论生成词云.png)
 - 词云图片
 ![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析/wordcloud.png)
-![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析/wordcloud1.png)
 ![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析/wordcloud2.png)
+![](https://gitee.com/k54kdk/result_display/raw/master/src/豆瓣电影数据可视化分析/wordcloud3.png)
 
 ***
 <details>
